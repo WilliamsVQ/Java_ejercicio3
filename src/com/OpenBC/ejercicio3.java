@@ -12,5 +12,6 @@ public class ejercicio3 {
             c = c + b;
         }
         return c;
+
     }
 }
